@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading
-rank: 6
+rank: 2
 ---
 
 Please read randomly. Here a list of papers and books we like.
